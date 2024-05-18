@@ -78,3 +78,9 @@ Kompoziční výstavba textu je způsob, jakým je text strukturován a organizo
 5. **Tématická kompozice**: 
    - Text je organizován podle témat.
    - Příklady: tematicky zaměřené eseje nebo články.
+  
+
+
+
+![image](https://github.com/l19uid/ctenarsky-denik-maturita/assets/97666898/94c491cf-f816-49a8-9db3-0e588d0e9d8c)
+
